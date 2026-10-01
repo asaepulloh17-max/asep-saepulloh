@@ -1,0 +1,8 @@
+{
+  "name": "Remix Guru Smart Admin-Garut",
+  "description": "Administrasi Pembelajaran Terintegrasi untuk Guru SMP berbasis Kurikulum Merdeka dan prinsip Pembelajaran Mendalam",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
